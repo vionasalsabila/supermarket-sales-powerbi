@@ -22,7 +22,7 @@ Berdasarkan visualisasi data pada dashboard, berikut adalah 3 temuan kritikal:
 ## 4. Dashboard Preview
 Berikut adalah tampilan penuh dari dashboard yang telah dioptimalkan:
 
-![Supermarket Sales Dashboard Preview](dashboard_preview.png)
+![Supermarket Sales Dashboard Preview](power-bi.PNG)
 
 ---
 *Catatan: File mentah analisis `.pbix` tersedia di repository ini dan dapat diunduh untuk kebutuhan audit rumus atau pengembangan model data lebih lanjut.*
